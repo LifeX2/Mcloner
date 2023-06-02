@@ -12,7 +12,7 @@ API_ID = ""
 API_HASH = ""
 TOKEN = ""
 
-ZAID = Client("ZPyro", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
+ZAID = Client("Pyro", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 
 
 @ZAID.on_message(filters.private & filters.command("start"))

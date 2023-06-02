@@ -6,7 +6,7 @@ from pyrogram import *
 from pyrogram.types import *
 
 os.system("apt install git curl python3-pip ffmpeg -y")
-
+bn
 
 API_ID = ""163
 API_HASH = ""
